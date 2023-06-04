@@ -31,11 +31,10 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![image](https://github.com/sriramss4880/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/120554177/d597c344-60c8-474d-a46f-46a8851e2595)
+![image](https://github.com/sriramss4880/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/120554177/53aa63c1-e720-41b3-94f0-e5b8074ba117)
 
 ### Output:
-![image](https://github.com/sriramss4880/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/120554177/53aa63c1-e720-41b3-94f0-e5b8074ba117)
-![image](https://github.com/sriramss4880/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/120554177/fb707b8d-4407-4e79-a091-78c34ba87f2a)
+![image](https://github.com/sriramss4880/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/120554177/d597c344-60c8-474d-a46f-46a8851e2595)
 
 ### Name:S S Sriram
 ### Register Number:212222230150
